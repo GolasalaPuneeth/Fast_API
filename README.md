@@ -21,3 +21,6 @@ FastAPI stands as a cutting-edge, high-performance web framework designed for cr
 - **Robustness:** Achieve production-ready code seamlessly, complemented by automatic interactive documentation that streamlines the development process.
 
 - **Standards-Compliant:** Aligns with and fully supports the open standards for APIs, namely OpenAPI (previously known as Swagger) and JSON Schema. This ensures compatibility and interoperability with other systems and tools.
+
+  # documentation
+  ** https://fastapi.tiangolo.com/ **
